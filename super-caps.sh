@@ -2,4 +2,5 @@
 
 xmodmap xmodmaprc
 xcape -e 'Control_L=Escape'
-xcape -e 'Shift_R=Caps_Lock'
+xcape -e 'Control_R=Caps_Lock'
+xcape -e 'Shift_R=Home'
