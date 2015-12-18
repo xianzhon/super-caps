@@ -5,6 +5,9 @@ clear Lock
 keycode 66 = Control_L
 add Control = Control_L
 
+! swap grave and asciitilde (` and ~)
+keycode  49 = asciitilde grave asciitilde grave
+
 !
 ! make escape be caps_lock
 !keysym Escape = Caps_Lock
