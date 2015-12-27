@@ -27,4 +27,4 @@ keycode 993 = Home
 
 !
 ! swap grave and asciitilde (` and ~)
-keycode  49 = asciitilde grave asciitilde grave
+! keycode  49 = asciitilde grave asciitilde grave
