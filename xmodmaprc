@@ -25,7 +25,7 @@ keycode 996 = Caps_Lock
 ! make a fake capslock key (so we can map it with xcape)
 keycode 993 = Home
 
-keycode 990 = F12
+! keycode 990 = F12
 !
 ! swap grave and asciitilde (` and ~)
 ! keycode  49 = asciitilde grave asciitilde grave
