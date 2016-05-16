@@ -29,3 +29,7 @@ keycode 993 = Home
 !
 ! swap grave and asciitilde (` and ~)
 ! keycode  49 = asciitilde grave asciitilde grave
+
+! map alt_l to F12 to be mapped in tmux
+remove mod1 = Alt_R
+keycode 108 = F12 F12 F12 F12 F12
