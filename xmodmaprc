@@ -25,14 +25,14 @@ keycode 996 = Caps_Lock
 ! make a fake capslock key (so we can map it with xcape)
 keycode 993 = Home
 
-! keycode 990 = F12
+keycode 990 = F12
 !
 ! swap grave and asciitilde (` and ~)
 ! keycode  49 = asciitilde grave asciitilde grave
 
 ! map alt_l to F12 to be mapped in tmux
-remove mod1 = Alt_R
-keycode 108 = F12 F12 F12 F12 F12
+! remove mod1 = Alt_R
+! keycode 108 = F12 F12 F12 F12 F12
 
 remove mod1 = Alt_L
 remove mod4 = Super_L
